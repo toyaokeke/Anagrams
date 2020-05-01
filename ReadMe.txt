@@ -1,10 +1,12 @@
+By Toya Okeke and Charles Chukwukaeme
+
 Read Me
-•	Open the command prompt and navigate to the appropriate directory
-•	Compile the java source code Demo. This is the file that runs the application 
-•	In the command prompt enter java Demo inputFileName.txt outputFileName.txt 
+â€¢	Open the command prompt and navigate to the appropriate directory
+â€¢	Compile the java source code Demo. This is the file that runs the application 
+â€¢	In the command prompt enter java Demo inputFileName.txt outputFileName.txt 
 o	inputFileName.txt should contain your list of words 
 o	outputFileName.txt is the name of the file that the program will read to
-•	When the program runs, it does the following:
+â€¢	When the program runs, it does the following:
 o	Creates an AnagramArray object to store the linked list. The member variable is an array of AnagramLinkedList objects. 
 o	It calls the method createArray() in the AnagramArray class which reads through the input file one word at a time. 
 o	Each word is used to create a node and a corresponding sorted word called anagram in the Node class.
