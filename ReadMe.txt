@@ -1,5 +1,3 @@
-By Toya Okeke and Charles Chukwukaeme
-
 Read Me
 •	Open the command prompt and navigate to the appropriate directory
 •	Compile the java source code Demo. This is the file that runs the application 
